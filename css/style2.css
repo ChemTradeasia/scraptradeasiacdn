@@ -523,6 +523,11 @@ h1.conditions-t{
 }
 /* end faq */
 
+.jmb-top-hm{
+    background: url(../img/bn-top.jpg);
+    background-size: cover;
+}
+
 /* start company */
 .jmb-company{
     background: url(../img/bn-company.jpg);
